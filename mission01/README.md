@@ -38,7 +38,7 @@ if 문안에 if 문 , OR 연산자 등 몇가지 조건을 바꿔가며 두가�
 
 여기서 의문인점은 에러페이지로 넘어가기 직전 console.log 에는 
 조건이 성립했을 때 띄워주는 문구가 정상적으로 뜨는것을 확인.
-
+![loginerror-ezgif com-optimize](https://github.com/kihonoluluhawaii/js-homework/assets/153144213/1da133c7-1773-420f-88e5-3d59458c9df9)
 에러페이지 해결법을 찾아 쿠키 와 캐시데이터도 삭제해봤지만 해결이 되지않음.
 
 원인을 찾아보자,,,,,,,
